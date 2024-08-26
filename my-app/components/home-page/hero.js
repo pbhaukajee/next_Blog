@@ -14,7 +14,7 @@ function Hero() {
           priority
         />
       </div>
-      <h1>Hi, I'm Priyanka</h1>
+      <h1>Hi, I&apos;m Priyanka</h1>
       <p>
         I am learning web development - especially frontend frameworks like
         React.
